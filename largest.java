@@ -26,4 +26,6 @@ int n, temp;
 		       
 		        
 		            System.out.print(a[0]);
+}
+}
 		        
